@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+textarea {
+  background: transparent;
+  color: black;
+  border: 1 none;
+  width: 600px;
+  height: 650px;
+  font-size: 25px; 
+  outline: none;
+  position: absolute; 
+  left: 400px;
+  top: 50px;
+  font-family: 'Courier New', Courier, monospace; 
+  resize: none;
+}
